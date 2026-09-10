@@ -1,4 +1,4 @@
-# 🚗 Auto Price Prediction (PRCP-1017)
+# 🚗 Auto Price Prediction
 
 ## 📌 Overview  
 This project applies **data science techniques** to analyze automobile datasets and predict car prices using multiple machine learning models. The objective is to provide management and stakeholders with actionable insights into the factors influencing pricing, while also delivering a reliable predictive framework for decision-making.
